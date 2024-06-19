@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+#cabecalho {
+  background-color: black;
+  color: aliceblue;
+  padding: 30px;
+  text-align: center;
+  font-weight: bolder;
+}
+
+#container {
+  margin: 150px 680px 150px;
+  background-color: rgba(232, 210, 233, 0.2);
+  padding: center;
+  width: 550px;
+  height: 550px;
+}
+
+#rodape {
+    background-color: #ebdeeb;
+}
